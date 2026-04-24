@@ -1,16 +1,16 @@
-## Hi there 👋
+# Alex Goodman
 
-<!--
-**alexgoodman53/alexgoodman53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## Comet Contribution Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    media="(prefers-reduced-motion: reduce)"
+    srcset="https://raw.githubusercontent.com/alexgoodman53/alexgoodman53/comet-graph/comet-reduced.svg"
+  />
+  <img
+    alt="Cinematic comet contribution graph"
+    src="https://raw.githubusercontent.com/alexgoodman53/alexgoodman53/comet-graph/comet.svg"
+  />
+</picture>
