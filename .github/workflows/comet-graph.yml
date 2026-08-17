@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v6
       - uses: kiaquila/comet-contribution-graph@v1
         with:
-          username: alexgoodman53
+          username: AlexOxytocin

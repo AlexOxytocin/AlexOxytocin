@@ -6,11 +6,11 @@
   <p><strong>Java Architect · AI Systems Builder · Automation Architect · Product Engineer</strong></p>
   <p>I turn complex real-world workflows into reliable, inspectable software.</p>
 
-  <a href="https://github.com/alexgoodman53?tab=followers">
-    <img src="https://img.shields.io/github/followers/alexgoodman53?style=for-the-badge&logo=github&label=Follow&color=14B8A6" alt="GitHub followers">
+  <a href="https://github.com/AlexOxytocin?tab=followers">
+    <img src="https://img.shields.io/github/followers/AlexOxytocin?style=for-the-badge&logo=github&label=Follow&color=14B8A6" alt="GitHub followers">
   </a>
-  <a href="https://github.com/alexgoodman53/flatscanner-demo/stargazers">
-    <img src="https://img.shields.io/github/stars/alexgoodman53/flatscanner-demo?style=for-the-badge&logo=github&label=FlatScanner&color=2563EB" alt="FlatScanner stars">
+  <a href="https://github.com/AlexOxytocin/flatscanner-demo/stargazers">
+    <img src="https://img.shields.io/github/stars/AlexOxytocin/flatscanner-demo?style=for-the-badge&logo=github&label=FlatScanner&color=2563EB" alt="FlatScanner stars">
   </a>
   <a href="mailto:alexgoodmanalexgoodman@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alex">
@@ -25,17 +25,17 @@ I design **AI-native products, agent workflows and production backends** that so
 
 My work combines multi-agent architecture, repository-backed project memory, automation, Telegram products and dependable Python services. The common thread is simple: useful AI needs clear contracts, observable decisions and software that survives contact with reality.
 
-> **Currently building:** [Community Mini App](https://github.com/alexgoodman53/community_bot) — a Telegram-based mutual-help product with tasks, internal credits, reputation, moderation and an auditable transaction model.
+> **Currently building:** [Community Mini App](https://github.com/AlexOxytocin/community_bot) — a Telegram-based mutual-help product with tasks, internal credits, reputation, moderation and an auditable transaction model.
 
 ## Selected work
 
 | Project | What it does | Focus |
 |---|---|---|
-| **[Community Mini App](https://github.com/alexgoodman53/community_bot)** | Backend for a mutual-help community with tasks, credits, reputation, disputes and Telegram integration. | `Python` `PostgreSQL` `Telegram` |
-| **[FlatScanner](https://github.com/alexgoodman53/flatscanner-demo)** | Rental-listing analysis service and a public example of spec-driven, AI-assisted delivery. | `Python` `AI Workflow` `CI` |
-| **[Architectura](https://github.com/alexgoodman53/Architectura)** | Codex-first planning scaffold where specialist agents reach explicit, reviewable architecture decisions. | `Multi-Agent` `Architecture` `Python` |
-| **[ArchitectClaude](https://github.com/alexgoodman53/ArchitectClaude)** | Architecture-review harness for regulated fintech projects with guardrails and binary readiness verdicts. | `Fintech` `.NET` `Architecture` |
-| **[OpenClaw Voice Call](https://github.com/alexgoodman53/openclaw-voice-call-local)** | Versioned local source of truth for a production voice-call integration. | `JavaScript` `Voice AI` `Operations` |
+| **[Community Mini App](https://github.com/AlexOxytocin/community_bot)** | Backend for a mutual-help community with tasks, credits, reputation, disputes and Telegram integration. | `Python` `PostgreSQL` `Telegram` |
+| **[FlatScanner](https://github.com/AlexOxytocin/flatscanner-demo)** | Rental-listing analysis service and a public example of spec-driven, AI-assisted delivery. | `Python` `AI Workflow` `CI` |
+| **[Architectura](https://github.com/AlexOxytocin/Architectura)** | Codex-first planning scaffold where specialist agents reach explicit, reviewable architecture decisions. | `Multi-Agent` `Architecture` `Python` |
+| **[ArchitectClaude](https://github.com/AlexOxytocin/ArchitectClaude)** | Architecture-review harness for regulated fintech projects with guardrails and binary readiness verdicts. | `Fintech` `.NET` `Architecture` |
+| **[OpenClaw Voice Call](https://github.com/AlexOxytocin/openclaw-voice-call-local)** | Versioned local source of truth for a production voice-call integration. | `JavaScript` `Voice AI` `Operations` |
 
 ## Technology
 
@@ -61,11 +61,11 @@ My work combines multi-agent architecture, repository-backed project memory, aut
 <picture>
   <source
     media="(prefers-reduced-motion: reduce)"
-    srcset="https://raw.githubusercontent.com/alexgoodman53/alexgoodman53/comet-graph/comet-reduced.svg"
+    srcset="https://raw.githubusercontent.com/AlexOxytocin/AlexOxytocin/comet-graph/comet-reduced.svg"
   />
   <img
     alt="Cinematic comet contribution graph"
-    src="https://raw.githubusercontent.com/alexgoodman53/alexgoodman53/comet-graph/comet.svg"
+    src="https://raw.githubusercontent.com/AlexOxytocin/AlexOxytocin/comet-graph/comet.svg"
   />
 </picture>
 
@@ -76,7 +76,7 @@ My work combines multi-agent architecture, repository-backed project memory, aut
   <p>
     <a href="mailto:alexgoodmanalexgoodman@gmail.com">Email</a>
     ·
-    <a href="https://github.com/alexgoodman53?tab=repositories">Projects</a>
+    <a href="https://github.com/AlexOxytocin?tab=repositories">Projects</a>
     ·
     <a href="https://godmodetools.com">God Mode Tools</a>
   </p>
