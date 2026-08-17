@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner-neon.png" width="100%" alt="Neon neural-network identity for Alex Grishchenko">
+  <img src="./assets/banner-neirosetochnaya-v1.png" width="100%" alt="Neon identity of the Allo, Neirosetochnaya community">
 
   <h1>Alex Grishchenko</h1>
 
