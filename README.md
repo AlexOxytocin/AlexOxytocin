@@ -9,8 +9,8 @@
   <a href="https://github.com/alexgoodman53?tab=followers">
     <img src="https://img.shields.io/github/followers/alexgoodman53?style=for-the-badge&logo=github&label=Follow&color=14B8A6" alt="GitHub followers">
   </a>
-  <a href="https://github.com/alexgoodman53/flatscanner-demo/stargazers">
-    <img src="https://img.shields.io/github/stars/alexgoodman53/flatscanner-demo?style=for-the-badge&logo=github&label=FlatScanner&color=2563EB" alt="FlatScanner stars">
+  <a href="https://github.com/alexgoodman53/flatscanner/stargazers">
+    <img src="https://img.shields.io/github/stars/alexgoodman53/flatscanner?style=for-the-badge&logo=github&label=FlatScanner&color=2563EB" alt="FlatScanner stars">
   </a>
   <a href="mailto:alexgoodmanalexgoodman@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alex">
@@ -25,14 +25,16 @@ I design **AI-native products, agent workflows and production backends** that so
 
 My work combines multi-agent architecture, repository-backed project memory, automation, Telegram products and dependable Python services. The common thread is simple: useful AI needs clear contracts, observable decisions and software that survives contact with reality.
 
-> **Currently building:** [Community Mini App](https://github.com/alexgoodman53/community_bot) — a Telegram-based mutual-help product with tasks, internal credits, reputation, moderation and an auditable transaction model.
+> **Now public:** [FlatScanner](https://github.com/alexgoodman53/flatscanner) — a Telegram service that turns rental listings into structured, multilingual analysis of photos, reviews, amenities and location context.
+>
+> **Also building:** [Community Mini App](https://github.com/alexgoodman53/community_bot) — a Telegram-based mutual-help product with tasks, internal credits, reputation, moderation and an auditable transaction model.
 
 ## Selected work
 
 | Project | What it does | Focus |
 |---|---|---|
 | **[Community Mini App](https://github.com/alexgoodman53/community_bot)** | Backend for a mutual-help community with tasks, credits, reputation, disputes and Telegram integration. | `Python` `PostgreSQL` `Telegram` |
-| **[FlatScanner](https://github.com/alexgoodman53/flatscanner-demo)** | Rental-listing analysis service and a public example of spec-driven, AI-assisted delivery. | `Python` `AI Workflow` `CI` |
+| **[FlatScanner](https://github.com/alexgoodman53/flatscanner)** | Telegram rental intelligence with AI-assisted photo, review, amenity and location analysis, built through a spec-driven delivery loop. | `Python` `Telegram` `AI` `CI` |
 | **[Architectura](https://github.com/alexgoodman53/Architectura)** | Codex-first planning scaffold where specialist agents reach explicit, reviewable architecture decisions. | `Multi-Agent` `Architecture` `Python` |
 | **[ArchitectClaude](https://github.com/alexgoodman53/ArchitectClaude)** | Architecture-review harness for regulated fintech projects with guardrails and binary readiness verdicts. | `Fintech` `.NET` `Architecture` |
 | **[OpenClaw Voice Call](https://github.com/alexgoodman53/openclaw-voice-call-local)** | Versioned local source of truth for a production voice-call integration. | `JavaScript` `Voice AI` `Operations` |
