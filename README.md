@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Alex Grishchenko — AI systems, automation and product engineering">
+  <img src="./assets/profile-banner-neon.png" width="100%" alt="Neon neural-network identity for Alex Grishchenko">
 
   <h1>Alex Grishchenko</h1>
 
