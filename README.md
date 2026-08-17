@@ -3,7 +3,7 @@
 
   <h1>Alex Grishchenko</h1>
 
-  <p><strong>AI Systems Builder · Automation Architect · Product Engineer</strong></p>
+  <p><strong>Java Architect · AI Systems Builder · Automation Architect · Product Engineer</strong></p>
   <p>I turn complex real-world workflows into reliable, inspectable software.</p>
 
   <a href="https://github.com/alexgoodman53?tab=followers">
