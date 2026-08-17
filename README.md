@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Alex Goodman — AI systems, automation and product engineering">
+  <img src="./assets/profile-banner.png" width="100%" alt="Alex Grishchenko — AI systems, automation and product engineering">
 
-  <h1>Alex Goodman</h1>
+  <h1>Alex Grishchenko</h1>
 
   <p><strong>AI Systems Builder · Automation Architect · Product Engineer</strong></p>
   <p>I turn complex real-world workflows into reliable, inspectable software.</p>
