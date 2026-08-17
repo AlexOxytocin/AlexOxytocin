@@ -31,6 +31,8 @@ My work combines multi-agent architecture, repository-backed project memory, aut
 
 | Project | What it does | Focus |
 |---|---|---|
+| **[Alex Oxytocin Hub](https://github.com/AlexOxytocin/alex-oxytocin-hub)** | Personal brand hub combining AI services, community work, engineering projects and a multi-role CV. | `React` `JavaScript` `Cloudflare` |
+| **[Alex Neon](https://github.com/AlexOxytocin/alex-neon)** | A standalone neon landing page for practical AI training, built around the Alex Oxytocin visual identity. | `JavaScript` `Design System` `Cloudflare` |
 | **[Community Mini App](https://github.com/AlexOxytocin/community_bot)** | Backend for a mutual-help community with tasks, credits, reputation, disputes and Telegram integration. | `Python` `PostgreSQL` `Telegram` |
 | **[FlatScanner](https://github.com/AlexOxytocin/flatscanner-demo)** | Rental-listing analysis service and a public example of spec-driven, AI-assisted delivery. | `Python` `AI Workflow` `CI` |
 | **[Architectura](https://github.com/AlexOxytocin/Architectura)** | Codex-first planning scaffold where specialist agents reach explicit, reviewable architecture decisions. | `Multi-Agent` `Architecture` `Python` |
@@ -42,8 +44,10 @@ My work combines multi-agent architecture, repository-backed project memory, aut
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI agents">
