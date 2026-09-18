@@ -65,11 +65,11 @@ My work combines multi-agent architecture, repository-backed project memory, aut
 <picture>
   <source
     media="(prefers-reduced-motion: reduce)"
-    srcset="https://raw.githubusercontent.com/AlexOxytocin/AlexOxytocin/comet-graph/comet-reduced.svg"
+    srcset="https://raw.githubusercontent.com/AlexOxytocin/AlexOxytocin/refs/heads/comet-graph/comet-reduced.svg"
   />
   <img
     alt="Cinematic comet contribution graph"
-    src="https://raw.githubusercontent.com/AlexOxytocin/AlexOxytocin/comet-graph/comet.svg"
+    src="https://raw.githubusercontent.com/AlexOxytocin/AlexOxytocin/refs/heads/comet-graph/comet.svg"
   />
 </picture>
 
